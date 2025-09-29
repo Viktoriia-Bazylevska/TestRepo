@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7cCfFkH6X0G6HmYECVKw7A" Reference="mkHvn9IWvUSdMcRN5Q-hyg/lTfnyVm0e0W2kw287XF1Ng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="find-and-update.company-information.service.gov.uk/company/01270695" CVScreenId="aef92f94-97f6-46fd-bea5-d53f49171539" CvType="AnyWordGroup" DesignTimeRectangle="1176, 487, 357, 32" FullSelectorArgument="&lt;webctrl id='company-creation-date' tag='DD' /&gt;" Guid="da564542-798f-411f-b68b-aebcc0f38a6b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='* overview - Find and update company information - GOV.UK' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="aef92f94-97f6-46fd-bea5-d53f49171539" CvTextArea="1175, 454, 164, 26" CvTextArgument="Incorporated on" CvType="Text" DesignTimeRectangle="1176, 450, 357, 31" FuzzySelectorArgument="&lt;webctrl id='company-birth-type' tag='DT' type='' class='' aaname='Incorporated on' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Incorporated on' /&gt;" Guid="e4a45a91-6060-4728-9cab-c8128da7c863" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a0feea2cb92b91f58d53fdd5a9dbb4d2.png" xmlns="">0i_kMLzMU6kS_WWObnDHTWw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

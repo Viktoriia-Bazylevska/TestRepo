@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="unYDXN0PK0GnjyRAZf1hAg" Reference="mkHvn9IWvUSdMcRN5Q-hyg/YWZ9R23qfEqmDGsArtdigg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="find-and-update.company-information.service.gov.uk/company/01270695" CVScreenId="a0be2938-cfe5-4c24-8351-7245f380fa69" CvType="AnyWordGroup" DesignTimeRectangle="386, 285, 712, 31" FullSelectorArgument="&lt;webctrl id='company-status' tag='DD' /&gt;" Guid="efc5d339-0710-4dda-8dea-4d21c20cfcb3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='* overview - Find and update company information - GOV.UK' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a0be2938-cfe5-4c24-8351-7245f380fa69" CvTextArea="384, 251, 167, 25" CvTextArgument="Company status" CvType="Text" DesignTimeRectangle="386, 247, 752, 31" FuzzySelectorArgument="&lt;webctrl type='' tag='DT' class='' aaname='Company status' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Company status' /&gt;" Guid="9f0efd2b-aff1-434b-8a40-be4deec662e1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="286c72ee121ae3a6c85235f73260cb0a.png" xmlns="">0Kzr3T0HlCEyj-E2WQa5NTA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

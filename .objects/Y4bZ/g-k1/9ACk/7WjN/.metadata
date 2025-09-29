@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Nature of business (SIC)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "7WjN3v_kdUCY5rlV8RLDOg",
+  "Reference": "mkHvn9IWvUSdMcRN5Q-hyg/7WjN3v_kdUCY5rlV8RLDOg",
+  "ParentRef": "mkHvn9IWvUSdMcRN5Q-hyg/9ACknKWbAU-Nn_-lVOl61Q",
+  "Created": "2025-09-23T16:07:23.1400328Z",
+  "Updated": "2025-09-23T16:07:23.1400328Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

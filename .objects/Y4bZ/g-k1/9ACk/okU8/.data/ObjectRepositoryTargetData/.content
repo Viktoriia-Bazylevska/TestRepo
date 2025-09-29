@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NaZ6U4VdC0GTEtzesnNhOQ" Reference="mkHvn9IWvUSdMcRN5Q-hyg/okU8eq1w3US47F5VEsGN5g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="find-and-update.company-information.service.gov.uk/search" CVScreenId="50716def-1475-492c-b947-8c75f58a92c4" CvTextArea="434, 884, 95, 20" CvTextArgument="Companies" CvType="Text" DesignTimeRectangle="426, 880, 112, 37" ElementType="ListItem" FullSelectorArgument="&lt;webctrl id='companies-tab' tag='LI' /&gt;" Guid="728c9ad3-1c03-4e40-aac0-15fe3f4ec1b7" ScopeSelectorArgument="&lt;html app='msedge.exe' title='* - Find and update company information - GOV.UK' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="50716def-1475-492c-b947-8c75f58a92c4" CvTextArea="357, 830, 275, 21" CvTextArgument="Advanced company search" CvType="Text" DesignTimeRectangle="359, 826, 273, 29" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='search-container' tag='A' type='' class='govuk-link piwik-event' aaname='Advanced company searchLink opens in new window' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Advanced company search&amp;#xA;Link opens in new window' /&gt;" Guid="9569e0ac-db1a-482e-a7cd-7acbcb5eaeb3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f7bd001adbc1b9875845c6c46e04b801.png" xmlns="">0l549gO4DE0ac46Xkr5HFlA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

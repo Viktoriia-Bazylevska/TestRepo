@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Find and update company information - GO",
+  "Type": "Screen",
+  "Id": "9ACknKWbAU-Nn_-lVOl61Q",
+  "Reference": "mkHvn9IWvUSdMcRN5Q-hyg/9ACknKWbAU-Nn_-lVOl61Q",
+  "ParentRef": "mkHvn9IWvUSdMcRN5Q-hyg/g-k1ckk2zUK29aVxdJotSA",
+  "Created": "2025-09-23T15:58:58.6071481Z",
+  "Updated": "2025-09-23T15:58:58.6071481Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

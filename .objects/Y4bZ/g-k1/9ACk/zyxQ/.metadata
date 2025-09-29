@@ -1,0 +1,14 @@
+﻿{
+  "Name": "COSTA LIMITED",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "zyxQYMEH4Ua3jr8V40cdCw",
+  "Reference": "mkHvn9IWvUSdMcRN5Q-hyg/zyxQYMEH4Ua3jr8V40cdCw",
+  "ParentRef": "mkHvn9IWvUSdMcRN5Q-hyg/9ACknKWbAU-Nn_-lVOl61Q",
+  "Created": "2025-09-23T15:59:32.6439676Z",
+  "Updated": "2025-09-23T15:59:32.6439676Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

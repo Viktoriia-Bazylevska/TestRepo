@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Find and update company information - GOV.UK",
+  "Type": "App",
+  "Id": "CIEAjqa-jkSSwmOmo8aXtQ",
+  "Reference": "mkHvn9IWvUSdMcRN5Q-hyg/CIEAjqa-jkSSwmOmo8aXtQ",
+  "Created": "2025-09-23T11:45:28.1248055Z",
+  "Updated": "2025-09-23T11:45:28.1248055Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

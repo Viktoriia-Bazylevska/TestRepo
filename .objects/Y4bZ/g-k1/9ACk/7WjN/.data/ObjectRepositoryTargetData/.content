@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uZxirwPPK0O5eiYppDm89w" Reference="mkHvn9IWvUSdMcRN5Q-hyg/7WjN3v_kdUCY5rlV8RLDOg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="find-and-update.company-information.service.gov.uk/company/01270695" CVScreenId="64c67a12-3e8e-4eff-ab58-8abbddcd06dc" CvType="AnyWordGroup" DesignTimeRectangle="386, 867, 523, 29" ElementType="Text" FullSelectorArgument="&lt;webctrl id='sic0' tag='SPAN' /&gt;" Guid="5ca181e6-039a-4c2d-817f-642338caa6da" ScopeSelectorArgument="&lt;html app='msedge.exe' title='* overview - Find and update company information - GOV.UK' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="64c67a12-3e8e-4eff-ab58-8abbddcd06dc" CvTextArea="384, 806, 349, 32" CvTextArgument="Nature of business (SIC)" CvType="Text" DesignTimeRectangle="386, 803, 1148, 38" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='sic-title' tag='H2' type='' class='heading-medium' aaname='Nature of business (SIC)' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Nature of business (SIC)' /&gt;" Guid="a7ae240e-ea8b-422c-b755-c8f7e3c83e60" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="56ee83bd8045b08cb745e854e65802de.png" xmlns="">0zb50lYXJ702zaWlA9ylNIQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

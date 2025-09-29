@@ -1,0 +1,6 @@
+{
+  "Name": "CompaniesHouse_FindCompaniesData",
+  "ProjectType": "Process",
+  "Description": "Finds Companies Data in website https://find-and-update.company-information.service.gov.uk/ and saves in Excel File, using Ochestrator",
+  "MainFile": "Main.xaml"
+}
