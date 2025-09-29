@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XQG5lzjeVUmgeJ4aJsGe0g" Reference="mkHvn9IWvUSdMcRN5Q-hyg/zyxQYMEH4Ua3jr8V40cdCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="find-and-update.company-information.service.gov.uk/search/companies" CVScreenId="f98ecd8e-0181-4f39-8600-e425d32a75ef" CvTextArea="357, 920, 176, 22" CvTextArgument="COSTA LIMITED" CvType="Text" DesignTimeRectangle="359, 916, 174, 31" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='results' tag='A' /&gt;" Guid="3ceb94c8-df45-40d4-83a5-faa46d0cbc57" ScopeSelectorArgument="&lt;html app='msedge.exe' title='* - Find and update company information - GOV.UK' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f98ecd8e-0181-4f39-8600-e425d32a75ef" CvTextArea="435, 801, 93, 20" CvTextArgument="Companies" CvType="Text" DesignTimeRectangle="426, 797, 112, 43" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl id='companies-tab' tag='LI' type='' class='active' aaname=' &amp;#x9;             &amp;#x9;        ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Search for &amp;#xA;Companies&amp;#xA; selected' /&gt;" Guid="0f076e4d-4227-4346-9536-4bdfc3ed1f20" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="98a8055828146ee8637f345197383437.png" xmlns="">0sDgEIFUM20qim55fK_tn5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

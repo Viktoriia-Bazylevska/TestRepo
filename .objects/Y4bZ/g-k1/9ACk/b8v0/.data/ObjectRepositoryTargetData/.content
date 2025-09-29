@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CIQKobf_S0WdLX-alX1BuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="find-and-update.company-information.service.gov.uk/company/08026367/officers" CVScreenId="cd2039fa-014f-45b5-bef4-8cf878c3505e" CvType="AnyWordGroup" DesignTimeRectangle="386, 361, 220, 37" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='officer-name-2' tag='A' /&gt;" Guid="061bcb66-9343-4e2f-a357-6b720fef23bf" ScopeSelectorArgument="&lt;html app='msedge.exe' title='SOVINI DEVELOPMENTS LIMITED people - Find and update company information - GOV.UK' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="367, 530, 296, 94" FuzzySelectorArgument="&lt;webctrl class='column-quarter' type='' tag='DL' aaname='                                                                       ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Role ACTIVE&amp;#xA;Director' /&gt;" Guid="7310a384-c311-44fc-bda1-1281ddfd04fe" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="64def483c38646e8513f83982f7fb589.png" xmlns="">0prC31IKp0EiyjmwcZhuhVg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "People for SOVINI DEVEL…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "67dyCxzglkKDNcPxktp1qw",
+  "Reference": "mkHvn9IWvUSdMcRN5Q-hyg/67dyCxzglkKDNcPxktp1qw",
+  "ParentRef": "mkHvn9IWvUSdMcRN5Q-hyg/9ACknKWbAU-Nn_-lVOl61Q",
+  "Created": "2025-09-23T16:13:58.2443833Z",
+  "Updated": "2025-09-23T16:13:58.2443833Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="h1qbGbY8WkuXBxLq8x50ig" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="find-and-update.company-information.service.gov.uk" CVScreenId="ec61fd0d-b903-42e3-9731-6cac3916e925" CvElementArea="365, 820, 1145, 71" CvType="InputBox" DesignTimeRectangle="371, 825, 1115, 63" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='site-search-text' tag='INPUT' type='search' class='govuk-input' aaname='Enter company name, number or officer name' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="ba80b368-2c67-42ee-9e59-258ed4a138f8" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Find and update company information - GOV.UK' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ec61fd0d-b903-42e3-9731-6cac3916e925" CvTextArea="359, 762, 462, 21" CvTextArgument="Enter company name, number or officer name" CvType="Text" DesignTimeRectangle="359, 758, 463, 29" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='search-cta-label' tag='LABEL' type='' class='' aaname='Enter company name, number or officer name' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Enter company name, number or officer name' /&gt;" Guid="72d0213a-1778-4d3f-bffb-28347d9bab80" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8160e838b820d779717f36f9f151bac7.png" xmlns="">0X6KQuoAOT0eRevxOSNSaAw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

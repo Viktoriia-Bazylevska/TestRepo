@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7fIqIdviCU-C2sBrb3Sm-w" Reference="mkHvn9IWvUSdMcRN5Q-hyg/67dyCxzglkKDNcPxktp1qw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="find-and-update.company-information.service.gov.uk/company/08026367" CVScreenId="d55d9cab-d2af-4a0f-b7ac-0a0fb31caedb" CvElementArea="695, 436, 126, 63" CvTextArea="722, 455, 72, 25" CvTextArgument="People" CvType="Button" DesignTimeRectangle="723, 451, 72, 31" ElementType="Text" FullSelectorArgument="&lt;webctrl id='people-tab' tag='A' /&gt;" Guid="e7acdaff-0769-4847-8963-cef56976cb63" ScopeSelectorArgument="&lt;html app='msedge.exe' title='* overview - Find and update company information - GOV.UK' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="074b38c6e527f823a8e9505f366b4876.png" xmlns="">0q2TzlVjarE-TLkuIaMO1jw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
